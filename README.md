@@ -30,10 +30,11 @@ I am an graduated Software delover from EANCampusland. I love to learn and build
   
 - <h4> Frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "node" />
 
 
 - <h4> Data base </h4>
-    <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "node" />
+    
     <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "sql" />
 
   
