@@ -34,7 +34,7 @@ I am an graduated Software delover from EANCampusland. I love to learn and build
 
 
 - <h4> Data base </h4>
-    
+    <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "sql" />
     <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "sql" />
 
   
